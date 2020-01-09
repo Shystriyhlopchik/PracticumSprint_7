@@ -1,0 +1,7 @@
+.popup__image {
+    width: 450px;
+    height: 561px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
